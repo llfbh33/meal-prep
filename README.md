@@ -85,6 +85,9 @@
 - Recipes
 - Ingredients
 - Measurements
+- Join Table (Recipes, Ingredients, Measurements)
+
+![MVP Diagram](./diagrams/MVP-Table-Diagram.png)
 
 ## Getting Started
 - Requirements:
